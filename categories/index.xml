@@ -5,10 +5,19 @@
     <link>https://funabashi800.github.io/categories/</link>
     <description>Recent content in Categories on Takahiro Suzuki Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://funabashi800.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GitHub Pages</title>
+      <link>https://funabashi800.github.io/categories/github-pages/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://funabashi800.github.io/categories/github-pages/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo</title>

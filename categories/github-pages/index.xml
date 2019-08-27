@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Pages on Takahiro Suzuki Personal Blog</title>
+    <link>https://funabashi800.github.io/categories/github-pages/</link>
+    <description>Recent content in GitHub Pages on Takahiro Suzuki Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://funabashi800.github.io/categories/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to deploy a static web site to GitHub pages</title>
+      <link>https://funabashi800.github.io/blog/how_to_deploy_gh_pg/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://funabashi800.github.io/blog/how_to_deploy_gh_pg/</guid>
+      <description>Hello everyone🤩! This post will show you how to deploy your static site to GitHub pages. In the last post, I introduced you to how to deploy HUGO&amp;rsquo;s static website to Amazon S3, but one of the consciousness must be the price. As far as a free tier, S3 will provide 5G in standard S3 storage, 20,000 GET/mon, and 2,000 PUT/mon. It would be charitable, and generous service, but you might still worry about if you should check out, specifically student.</description>
+    </item>
+    
+  </channel>
+</rss>
